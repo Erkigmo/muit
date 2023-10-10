@@ -1,0 +1,120 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.3.2
+  Mod:
+    - add    to "MoreSciencePacks-for1_1" 
+    - add    to "bobmodules"  
+    - add    to "expanded-rocket-payloads-continued"    
+    - delete to "Advanced_Modules" 
+    - delete to "Clowns-Science" 
+    - delete to "no-productivity-modules" 
+    - delete to "SchallAutolinkedChest" 
+    - delete to "shield-generators" 
+    - delete to "shield-projector" 
+    - delete to "TarawindBeaconsRE" 
+    - delete to "Transport_Drones" 
+    - delete to "RPGsystem" 
+    - add compatibility to "248k" 
+  startup:
+    - add to "select-group-row-count" 
+    - add to "select-slot-row-count" 
+    - add to "inventory-width" 
+    - add to "module-inventory-width" 
+    - add to "tooltip-monitor-edge-border" 
+  Changes:
+    - add New science pack 
+      - Py Matter Vrauks, Py Matter Scrondrix, Py Matter Dingrits
+      - Py Matter Yaedols, Py Matter Phagnot, Py Matter Rennea
+      - Py Matter Kmauts, Py Matter Seaweed, Py Matter Ralesias
+      - Py Matter Moss, Py Matter Grod, Py Matter Dhilmos
+      - Py Matter Kicalk, Py Matter Bhoddos, Py Matter Tuuphra
+      - Py Matter Auog, Py Matter Moondrop, Py Matter Sea Sponge
+      - Py Matter Navens, Py Matter Korlex
+      - Study Ball(Speed), Study Ball(Effectivity), Study Ball(Productivity)
+      - Study Ball(Pollution Clean), Study Ball(Pollution Create), Study Ball(Dark)  
+    - add New recipe, item, entity
+      - Lab EX
+    - add New technology
+      - Py Matter VSD
+      - Py Matter YPR
+      - Py Matter KSR
+      - Py Matter MGD
+      - Py Matter KBT
+      - Py Matter AMS
+      - Py Matter NK
+      - Space type research ball Alpha
+      - Space type research ball Gamma   
+      - Inflation research added after 15 
+    - Added the above science pack additions to research after the space science pack
+    - Added research prerequisites for the Space Science Pack
+    - Changed the setting of the productivity addition to the Py organism module from the setting to 
+---------------------------------------------------------------------------------------------------
+Version: 1.3.1
+  Changes:
+    - change pyalife module mk02,mk03 and mk03 to add productivity
+    - add recipes to pyalife module mk02,mk03 and mk03
+---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+  Changes:
+    - Productivity module effective for any assembling-machine and furnace
+    - change pyalife module mk02,mk03 and mk03 to add productivity
+    - add recipes to pyalife module mk02,mk03 and mk03
+---------------------------------------------------------------------------------------------------
+Version: 1.2.9
+  Changes:
+    - Productivity module effective for particle-accelerator, pulp-mill, glassworks and carbon-filter
+    - I put a module slot in botanical-nursery
+    - add technology
+    - recipe modification to  empty-barrel-milk
+---------------------------------------------------------------------------------------------------
+Version: 1.2.8
+  Changes:
+    - converter recipe to Angels Natural Gas for Py Natural Gas
+---------------------------------------------------------------------------------------------------
+Version: 1.2.7
+  Changes:
+    - fast-underground-belt to 160
+    - express-underground-belt to 190
+---------------------------------------------------------------------------------------------------
+Version: 1.2.6
+  Changes:
+    - Productivity module effective for smelter and washer
+---------------------------------------------------------------------------------------------------
+Version: 1.2.5
+  Changes:
+    - Indicated version information
+    - Removed silicon from molten super steel and NISI 
+---------------------------------------------------------------------------------------------------
+Version: 1.2.4
+  Changes:
+    - Converted with oxygen because the recipe for hydrogen peroxide is invalid
+---------------------------------------------------------------------------------------------------
+Version: 1.2.3
+  Changes:
+    - organic-solvent2 recipes are now valid when creating worlds 
+---------------------------------------------------------------------------------------------------
+Version: 1.2.2
+  Changes:
+    - logistic-robot recipes are now valid when creating worlds 
+    - construction-robot recipes are now valid when creating worlds 
+---------------------------------------------------------------------------------------------------
+Version: 1.2.1
+  Changes:
+    - Nitrobenzene recipes are now valid when creating worlds 
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+  Changes:
+    - automation,logistic Science packs other than py standard 
+    - SciencePackGalore is delete mod
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+  Changes:
+    - fish module is use refugium by angelsbioprocessing 
+    - refugium puffer working_sound  is car-wood-impact by angelsbioprocessing 
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+  Changes:
+    - DarkModules is add mod
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+  Changes:
+    - initial release

@@ -1,0 +1,15 @@
+data.raw['boiler']['boiler-5'].energy_consumption = "40MW"
+data.raw['boiler']['heat-exchanger-3'].energy_consumption = "40MW"
+data.raw['boiler']['oil-boiler-4'].energy_consumption = "40MW"
+data.raw['generator']['steam-turbine-3'].max_power_output = "120MW"
+data.raw['generator']['steam-turbine-3'].maximum_temperature = 900
+data.raw['generator']['steam-turbine-3'].fluid_usage_per_tick = 4
+data.raw['generator']['steam-turbine-3'].effectivity = 3
+data.raw['generator']['fluid-generator-3'].max_power_output = "120MW"
+data.raw['generator']['fluid-generator-3'].maximum_temperature = 900
+data.raw['generator']['fluid-generator-3'].fluid_usage_per_tick = 4
+data.raw['generator']['fluid-generator-3'].effectivity = 3
+data.raw['generator']['steam-engine-5'].max_power_output = "120MW"
+data.raw['generator']['steam-engine-5'].maximum_temperature = 900
+data.raw['generator']['steam-engine-5'].fluid_usage_per_tick = 4
+data.raw['generator']['steam-engine-5'].effectivity = 3
